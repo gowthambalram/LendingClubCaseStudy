@@ -25,9 +25,19 @@
 - Insights include the impact of income levels on loan amounts, the correlation between interest rates and default rates, and the influence of employment stability on loan performance.
 
 ## Conclusions
-- Higher loan amounts and interest rates are strongly correlated with increased default rates.
-- Borrowers with longer employment history do not necessarily exhibit lower default rates, challenging common lending assumptions.
-- States with higher average loan amounts often exhibit higher default rates, indicating regional risk factors that need to be considered.
+1. **Income Distribution Among Borrowers**: Shows most borrowers earn under $100,000, highlighting a middle-income customer base.
+2. **Default Loans Distribution by Interest Rate Segments**: Higher default rates in higher interest brackets, especially above 10%.
+3. **Average Loan Amount by Income Bracket and State**: Heatmap showing higher income brackets typically receive larger loans across different states.
+4. **Employment Length Distribution by State**: Heatmap showing diverse employment stability across states and its impact on loan performance.
+5. **Default Rate by Issue Year**: Line chart tracking fluctuations in default rates over years, reflecting economic conditions or lending changes.
+6. **Default Rate by Loan Grade**: Bar chart showing higher default rates in higher grades, affirming higher risk.
+7. **Loan Amount vs. Annual Income**: Scatter plot showing positive correlation between income and loan amounts.
+8. **Average Loan Amount & Interest Rate Distribution by Year**: Line chart indicating a general increase in loan amounts over time.
+9. **Default Rate by Employment Length**: Shows that longer employment does not necessarily correlate with lower default rates.
+10. **Default Rates by State**: Bar chart identifying states with higher financial risk based on default rates.
+11. **Financial Maturity and Default Trends**: Bar chart showing lower default rates among borrowers with longer credit histories.
+12. **Default Rate by Financial Maturity**: Bar chart indicating that longer financial maturity correlates with lower default rates.
+13. **Income vs. Loan Amount**: Scatter plot supporting that higher incomes correlate with larger loan amounts.
 
 ## Technologies Used
 - Python - version 3.8
@@ -37,8 +47,8 @@
 
 ## Acknowledgements
 - This project was inspired by the need to improve lending practices and minimize financial risk.
-- Data provided by [Financial Institution Name].
+- Data provided by Upgrad AI/ML Program.
 
 ## Contact
-Created by [@yourGitHubUsername] - feel free to contact me!
+Created by [@gowthambalram] - feel free to contact me!
 
