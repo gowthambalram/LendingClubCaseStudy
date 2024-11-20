@@ -27,17 +27,19 @@
 ## Conclusions
 1. **Income Distribution Among Borrowers**: Shows most borrowers earn under $100,000, highlighting a middle-income customer base.
 2. **Default Loans Distribution by Interest Rate Segments**: Higher default rates in higher interest brackets, especially above 10%.
-3. **Average Loan Amount by Income Bracket and State**: Heatmap showing higher income brackets typically receive larger loans across different states.
-4. **Employment Length Distribution by State**: Heatmap showing diverse employment stability across states and its impact on loan performance.
-5. **Default Rate by Issue Year**: Line chart tracking fluctuations in default rates over years, reflecting economic conditions or lending changes.
-6. **Default Rate by Loan Grade**: Bar chart showing higher default rates in higher grades, affirming higher risk.
-7. **Loan Amount vs. Annual Income**: Scatter plot showing positive correlation between income and loan amounts.
-8. **Average Loan Amount & Interest Rate Distribution by Year**: Line chart indicating a general increase in loan amounts over time.
-9. **Default Rate by Employment Length**: Shows that longer employment does not necessarily correlate with lower default rates.
-10. **Default Rates by State**: Bar chart identifying states with higher financial risk based on default rates.
-11. **Financial Maturity and Default Trends**: Bar chart showing lower default rates among borrowers with longer credit histories.
-12. **Default Rate by Financial Maturity**: Bar chart indicating that longer financial maturity correlates with lower default rates.
-13. **Income vs. Loan Amount**: Scatter plot supporting that higher incomes correlate with larger loan amounts.
+3. **Insight for 'Default Loans Distribution by Open Credit Lines Segments':** Applicants with number of open credit lines between 5 and 10 tend to show an increasing trend in default rates.
+4. **Average Loan Amount by Income Bracket and State**: Heatmap showing higher income brackets typically receive larger loans across different states.
+5. **Employment Length Distribution by State**: Heatmap showing diverse employment stability across states and its impact on loan performance.
+6. **Default Rate by Issue Year**: Line chart tracking fluctuations in default rates over years, reflecting economic conditions or lending changes.
+7. **Default Rate by Loan Grade**: Bar chart showing higher default rates in higher grades, affirming higher risk.
+8. **Default Rate by Loan Sub Grade**: Bar chart shows higher default rates in the sub grades of F and G, affirming higher risk.
+9. **Loan Amount vs. Annual Income**: Scatter plot showing positive correlation between income and loan amounts.
+10. **Average Loan Amount & Interest Rate Distribution by Year**: Line chart indicating a general increase in loan amounts over time.
+11. **Default Rate by Employment Length**: Shows that longer employment does not necessarily correlate with lower default rates.
+12. **Default Rates by State**: Bar chart identifying states with higher financial risk based on default rates.
+13. **Financial Maturity and Default Trends**: Bar chart showing lower default rates among borrowers with longer credit histories.
+14. **Default Rate by Financial Maturity**: Bar chart indicating that longer financial maturity correlates with lower default rates.
+15. **Income vs. Loan Amount**: Scatter plot supporting that higher incomes correlate with larger loan amounts.
 
 ## Technologies Used
 - Python - version 3.8
